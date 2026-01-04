@@ -89,6 +89,4 @@ Connecting Node.js to Neo4j using the Bolt protocol.
 
 Writing Cypher queries to traverse complex permission paths.
 
-Building a CI/CD pipeline (GitHub Actions) to push images to Docker Hub.
-
 Created by [Mouad Abbassid] - 2025-2026
